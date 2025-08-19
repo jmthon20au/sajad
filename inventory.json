@@ -1,0 +1,21 @@
+// 
+[
+    {
+        "company_name": "شركة السعد",
+        "product_code": "1",
+        "quantity": 700,
+        "image_url": "https://via.placeholder.com/400x300.png?text=B+Stone"
+    },
+    {
+        "company_name": "شركة الزهرة",
+        "product_code": "kjd92x",
+        "quantity": 550,
+        "image_url": "https://via.placeholder.com/400x300.png?text=Marfil+Beige"
+    },
+    {
+        "company_name": "شركة القمر",
+        "product_code": "opq12m",
+        "quantity": 900,
+        "image_url": "https://via.placeholder.com/400x300.png?text=Luna+Tile"
+    }
+]
