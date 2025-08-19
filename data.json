@@ -1,0 +1,20 @@
+[
+  {
+    "company_name": "شركة السعد",
+    "product_code": "udh7eh",
+    "quantity": 700,
+    "image_url": "https://i.postimg.cc/jd0S3tDh/2c7bbeb42fa01dcc040161e00544e1e7.jpg"
+  },
+  {
+    "company_name": "شركة الزهرة",
+    "product_code": "kjd92x",
+    "quantity": 550,
+    "image_url": "https://i.postimg.cc/jd0S3tDh/2c7bbeb42fa01dcc040161e00544e1e7.jpg"
+  },
+  {
+    "company_name": "شركة القمر",
+    "product_code": "opq12m",
+    "quantity": 900,
+    "image_url": "https://i.postimg.cc/jd0S3tDh/2c7bbeb42fa01dcc040161e00544e1e7.jpg"
+  }
+]
