@@ -1,5 +1,5 @@
 import telebot
-from telebot import types
+import types
 import smtplib
 from email.mime.text import MIMEText
 import ssl
